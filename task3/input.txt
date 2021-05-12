@@ -1,0 +1,8 @@
+cd ..
+ls -l
+cat hello world
+cd task3
+history
+!1
+!2
+quit

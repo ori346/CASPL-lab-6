@@ -1,0 +1,6 @@
+cd ..
+sleep 1
+cd task2 
+ls |wc -l
+cat < input.txt | grep a >output.txt 
+quit
